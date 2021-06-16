@@ -21,6 +21,8 @@ Tools ini berisi berbagai macam alat yang berhubungan dengan jaringan. Fitur yan
  - What Web
  - [HTTP Status](https://www.youtube.com/watch?v=vzPk-HY42zI) [Mengecek HTTP Status dari file teks list domain]
 
+Tools ini memang terdeteksi mengandung virus namun sebenarnya tidak. Hal ini dikarenakan tools ini belum di sign. Mungkin update kedepannya akan saya sign.
+
 Silahkan kunjungi repo ini untuk mendapatkan update terbaru mengenai software ini jika ada.
 
 Jika ada bug atau saran, silahkan ajukan di bagian [issue](https://github.com/IhsanDevs/network-tools/issues/new/choose). Ingin donasi? [klik disini](https://trakteer.id/ihsan.devs).
