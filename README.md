@@ -5,6 +5,8 @@
 **
 
 ![enter image description here](https://github.com/IhsanDevs/network-tools/raw/main/Screenshot%20%2856%29.png)
+
+
 Tools ini berisi berbagai macam alat yang berhubungan dengan jaringan. Fitur yang ada di dalam software ini antara lain:
 
  - DNS Lookup
@@ -19,7 +21,7 @@ Tools ini berisi berbagai macam alat yang berhubungan dengan jaringan. Fitur yan
  - Subnet Calculator
  - Traceroute
  - What Web
- - HTTP Status [Mengecek HTTP Status dari file teks list domain]
+ - [HTTP Status](https://www.youtube.com/watch?v=vzPk-HY42zI) [Mengecek HTTP Status dari file teks list domain]
 
 Silahkan kunjungi repo ini untuk mendapatkan update terbaru mengenai software ini jika ada.
 
