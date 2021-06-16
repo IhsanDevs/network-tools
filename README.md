@@ -1,7 +1,5 @@
 
-
-## **Network Tools - v2.0**
-
+# Network Tools - v2.0
 
 
 ![enter image description here](https://github.com/IhsanDevs/network-tools/raw/main/Screenshot%20%2856%29.png)
@@ -26,3 +24,5 @@ Tools ini berisi berbagai macam alat yang berhubungan dengan jaringan. Fitur yan
 Silahkan kunjungi repo ini untuk mendapatkan update terbaru mengenai software ini jika ada.
 
 Jika ada bug atau saran, silahkan ajukan di bagian [issue](https://github.com/IhsanDevs/network-tools/issues/new/choose). Ingin donasi? [klik disini](https://trakteer.id/ihsan.devs).
+
+[*Virsutotal Scan*](https://www.virustotal.com/gui/file/ce397b0a0b6dc20938725752fa908e9a34b64212641bfe0371c8d86ac10a8bc3/details).
